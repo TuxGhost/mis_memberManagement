@@ -1,4 +1,6 @@
 {
+    "name": "vendor-tuxGhost/mismembermanagement",    
+    "description": "Module for member management",
     "type": "project",
     "license": "proprietary",
     "minimum-stability": "stable",
